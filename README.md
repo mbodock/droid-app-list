@@ -8,9 +8,9 @@ Author: Mbodock
 
 Lista sucinta de aplicativos *essenciais* para android
 
-Nome: AirDroid - Best Device Manager
-Desc: Permite acessar arquivos, mensagens, fotos, contatos e várias outras coisas sem a necessidade de um cabo USB.
-Pago: Não
+Nome: AirDroid - Best Device Manager  
+Desc: Permite acessar arquivos, mensagens, fotos, contatos e várias outras coisas sem a necessidade de um cabo USB.  
+Pago: Não  
 Link: [AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=pt_BR)
 
 Nome: Barcode Scanner
