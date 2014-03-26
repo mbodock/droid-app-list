@@ -1,6 +1,6 @@
 # Como contribuir
 
-Envie-me um pull-request e juntos decidiremos como continuar
+Envie-me um pull-request e juntos decidiremos como continuar.
 
 ## Rules
 
