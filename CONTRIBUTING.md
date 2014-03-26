@@ -1,8 +1,7 @@
-# Contribution Guidelines
+# Como contribuir
 
-Sends a pull request and we'll figure out.
-
+Envie-me um pull-request e juntos decidiremos como continuar
 
 ## Rules
 
-Try to follow the standard.
+Tente manter o padrão usado.
