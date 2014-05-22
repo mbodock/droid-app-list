@@ -56,7 +56,7 @@ Link: [OperadoraDDD](https://play.google.com/store/apps/details?id=com.camerum.a
 Nome: Smart Voice Recorder
 Desc: Gravador de voz super inteligente, pausa a gravação automaticamente para um conteudo mais dinâmico e direto, ótima qualidade de gravação além de muito simples de usar.
 Pago: Não  
-Link: [OperadoraDDD](https://play.google.com/store/apps/details?id=com.andrwq.recorder)
+Link: [Smart Voice Recorder](https://play.google.com/store/apps/details?id=com.andrwq.recorder)
 
 Nome: Tasker  
 Desc: Automatizador de tarefas do android, simplesmente executa uma ou mais tarefas caso algo aconteça ou mude. Por ex: quando eu (bodock) saio de casa, ele desliga minha Wifi e liga a 3g automaticamente. Todos os dias as 0h ele liga o modo silencioso e desativa as 6h.  
