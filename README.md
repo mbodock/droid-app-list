@@ -54,7 +54,7 @@ Pago: Não
 Link: [OperadoraDDD](https://play.google.com/store/apps/details?id=com.camerum.android.app.operadora)
 
 Nome: Smart Voice Recorder
-Desc: Gravador de voz super inteligente, pausa a gravação automaticamente para um conteudo mais dinâmico e direto, ótima qualidade de gravação além de muito simples de usar.
+Desc: Gravador de voz super inteligente, pausa a gravação automaticamente para um conteudo mais dinâmico e direto, ótima qualidade de gravação além de muito simples de usar.   
 Pago: Não  
 Link: [Smart Voice Recorder](https://play.google.com/store/apps/details?id=com.andrwq.recorder)
 
